@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64f0a095-3083-40b3-8550-0a3a5f1ed099" name="Default Changelist" comment="" />
+    <list default="true" id="64f0a095-3083-40b3-8550-0a3a5f1ed099" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iM8Wwn81dOfuJ5fyCGa7bkexMW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,10 +30,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/select" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/select" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +53,9 @@
       <option name="presentableId" value="Default" />
       <updated>1601706136030</updated>
       <workItem from="1601706137043" duration="1085000" />
-      <workItem from="1601707510855" duration="9360000" />
+      <workItem from="1601707510855" duration="10317000" />
+      <workItem from="1604224225343" duration="596000" />
+      <workItem from="1604839630222" duration="763000" />
     </task>
     <servers />
   </component>
@@ -46,6 +63,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1771" height="142" key="GridCell.Tab.0.bottom" timestamp="1601751296578">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1771" height="142" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1601751296578" />
+    <state width="1771" height="142" key="GridCell.Tab.0.center" timestamp="1601751296577">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1771" height="142" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1601751296577" />
+    <state width="1771" height="142" key="GridCell.Tab.0.left" timestamp="1601751296570">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1771" height="142" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1601751296570" />
+    <state width="1771" height="142" key="GridCell.Tab.0.right" timestamp="1601751296577">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1771" height="142" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1601751296577" />
     <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1601729773328">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
